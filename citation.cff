@@ -1,8 +1,0 @@
-cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
-authors:
-  - family-names: "Sharma"
-    given-names: "Louis"
-title: "Exact diagonalization example codes"
-date-released: "2024-05-17"
-repository-code: "https://github.com/louishrm/Exact-Diagonalization"ci
